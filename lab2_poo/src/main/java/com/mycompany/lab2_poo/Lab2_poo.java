@@ -8,6 +8,7 @@ public class Lab2_poo {
 
         JogoPerguntas jogo = new JogoPerguntas();
         jogo.iniciarJogo();
+        // Matias
         //jogo.iniciarJogoLimitada();
 
 
